@@ -1,0 +1,19 @@
+.colorscheme {
+    color: #7A7D7F;
+    color: #9CD0FF;
+    color: #F4FAFF;
+    color: #164D7F;
+    color: #C3C8CC;
+    color: #00A0FF;
+}
+
+body {
+    background-color: black; 
+}
+
+.container {
+    margin: 0 auto;
+    width: 1366 px;
+    height: 768 px;
+    background-color: #9CD0FF;
+}
